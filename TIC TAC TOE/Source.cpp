@@ -264,7 +264,7 @@ void MainMenu() {  // This function provides to back to menu
 		}
 	}
 	break;
-	case 2: // About Program and Student information
+	case 2: // About Program
 	{
 		cout << "\n\t\t\t Tic-Tac-Toe" << endl;
 		cout << " Tic-tac-toe is a simple, two-player game that," << endl;
@@ -272,7 +272,7 @@ void MainMenu() {  // This function provides to back to menu
 		cout << "will always result in a tie. The game is also called" << endl;
 		cout << "noughts and crosses or Xs and Os.\n\n\n";
 		cout << " Creator Information:" << endl;
-		cout << "  * Alimov Abdullokh \n  * U1910060 \n  * Section 004 \n\n";
+		cout << "  * Muhammed Elmasry\n";
 		cout << " > Press 1 to move 'Main Menu'" << endl;
 		cout << " > Press any number to 'Quit'" << endl;
 		cout << " Your Choice:"; cin >> menu2;
@@ -354,7 +354,7 @@ int main() // Main function
 		}
 	}
 	break;
-	case 2: // About Program and Student information
+	case 2: // About Program
 	{
 		cout << "\n\t\t\t Tic-Tac-Toe" << endl;
 		cout << " Tic-tac-toe is a simple, two-player game that," << endl;
@@ -362,7 +362,7 @@ int main() // Main function
 		cout << "will always result in a tie. The game is also called" << endl;
 		cout << "noughts and crosses or Xs and Os.\n\n\n";
 		cout << " Creator Information:" << endl;
-		cout << "  * Alimov Abdullokh \n  * U1910060 \n  * Section 004 \n\n";
+		cout << "  * Muhammed Elmasry\n";
 		cout << " > Press 1 to move 'Main Menu'" << endl;
 		cout << " > Press any number to 'Quit'" << endl;
 		cout << " Your Choice:"; cin >> menu2;
